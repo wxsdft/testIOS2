@@ -35,7 +35,7 @@
                 <key>kind</key>
                 <string>software</string>
                 <key>title</key>
-                <string>亚博娱乐</string>      // 这个就是你App的名字 例如:狗蛋
+                <string>狗蛋</string>      // 这个就是你App的名字 例如:狗蛋
             </dict>
         </dict>
     </array>
