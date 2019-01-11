@@ -11,19 +11,19 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://github.com/wxsdft/testIOS2/raw/master/yabo_v1.0.0.ipa</string>
+					<string>https://qrcode.yb99.org/html/yabo_v1.0.0.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>display-image</string>
 					<key>url</key>
-					<string>https://raw.githubusercontent.com/wxsdft/testIOS2/master/display-image.png</string>
+					<string>https://qrcode.yb99.org/html/img/display-image.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>url</key>
-					<string>https://raw.githubusercontent.com/wxsdft/testIOS2/master/full-size-image.png</string>
+					<string>https://qrcode.yb99.org/html/img/full-size-image.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
@@ -35,7 +35,7 @@
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>狗蛋</string>
+				<string>yahbooiOS</string>
 			</dict>
 		</dict>
 	</array>
