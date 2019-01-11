@@ -1,43 +1,43 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
-    <key>items</key>
-    <array>
-        <dict>
-            <key>assets</key>
-            <array>
-                <dict>
-                    <key>kind</key>
-                    <string>software-package</string>
-                    <key>url</key>
-                    <string>https://github.com/wxsdft/testIOS2/raw/master/yabo_v1.0.0.ipa</string> //ipa 在服务器上的路径
-                </dict>
+	<key>items</key>
+	<array>
 		<dict>
-                    <key>kind</key>
-                    <string>display-image</string>
-                    <key>url</key>
-                    <string>https://raw.githubusercontent.com/wxsdft/testIOS2/master/display-image.png</string> //display-image图片 在服务器上的路径
-                </dict>
-		<dict>
-                    <key>kind</key>
-                    <string>full-size-image</string>
-                    <key>url</key>
-                    <string>https://raw.githubusercontent.com/wxsdft/testIOS2/master/full-size-image.png</string> //full-size-image图片 在服务器上的路径
-                </dict>
-            </array>
-            <key>metadata</key>
-            <dict>
-                <key>bundle-identifier</key>
-                <string>com.yahboo.yahbooiOS</string>  // 或者LNDDASUNTX.com.yahboo.yahbooiOS
-                <key>bundle-version</key>
-                <string>1.0</string>         // 版本号 例如 1.0.0
-                <key>kind</key>
-                <string>software</string>
-                <key>title</key>
-                <string>狗蛋</string>      // 这个就是你App的名字 例如:狗蛋
-            </dict>
-        </dict>
-    </array>
+			<key>assets</key>
+			<array>
+				<dict>
+					<key>kind</key>
+					<string>software-package</string>
+					<key>url</key>
+					<string>https://github.com/wxsdft/testIOS2/raw/master/yabo_v1.0.0.ipa</string>
+				</dict>
+				<dict>
+					<key>kind</key>
+					<string>display-image</string>
+					<key>url</key>
+					<string>https://raw.githubusercontent.com/wxsdft/testIOS2/master/display-image.png</string>
+				</dict>
+				<dict>
+					<key>kind</key>
+					<string>full-size-image</string>
+					<key>url</key>
+					<string>https://raw.githubusercontent.com/wxsdft/testIOS2/master/full-size-image.png</string>
+				</dict>
+			</array>
+			<key>metadata</key>
+			<dict>
+				<key>bundle-identifier</key>
+				<string>com.yahboo.yahbooiOS</string>
+				<key>bundle-version</key>
+				<string>1.0</string>
+				<key>kind</key>
+				<string>software</string>
+				<key>title</key>
+				<string>yahbooiOS</string>
+			</dict>
+		</dict>
+	</array>
 </dict>
 </plist>
