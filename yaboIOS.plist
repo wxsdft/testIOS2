@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>items</key>
+    <array>
+        <dict>
+            <key>assets</key>
+            <array>
+                <dict>
+                    <key>kind</key>
+                    <string>software-package</string>
+                    <key>url</key>
+                    <string>https://raw.githubusercontent.com/wxsdft/testIOS/master/full-size-image.png?token=APwBrVCmiUH8Ji3K_KgoHY4wcBmEG7F_ks5cOHAqwA%3D%3D</string> //ipa 在服务器上的路径
+                </dict>
+		<dict>
+                    <key>kind</key>
+                    <string>display-image</string>
+                    <key>url</key>
+                    <string>https://raw.githubusercontent.com/wxsdft/testIOS/master/display-image.png?token=APwBrURyHypR7PKeNkjc92ApnZWQzZjEks5cOG_9wA%3D%3D</string> //display-image图片 在服务器上的路径
+                </dict>
+		<dict>
+                    <key>kind</key>
+                    <string>full-size-image</string>
+                    <key>url</key>
+                    <string>https://raw.githubusercontent.com/wxsdft/testIOS/master/full-size-image.png?token=APwBrVCmiUH8Ji3K_KgoHY4wcBmEG7F_ks5cOHAqwA%3D%3D</string> //full-size-image图片 在服务器上的路径
+                </dict>
+            </array>
+            <key>metadata</key>
+            <dict>
+                <key>bundle-identifier</key>
+                <string>LNDDASUNTX.com.yahboo.yahbooiOS</string>  // 或者LNDDASUNTX.com.yahboo.yahbooiOS
+                <key>bundle-version</key>
+                <string>1.0</string>         // 版本号 例如 1.0.0
+                <key>kind</key>
+                <string>software</string>
+                <key>title</key>
+                <string>亚博娱乐</string>      // 这个就是你App的名字 例如:狗蛋
+            </dict>
+        </dict>
+    </array>
+</dict>
+</plist>
