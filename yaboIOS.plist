@@ -29,7 +29,7 @@
             <key>metadata</key>
             <dict>
                 <key>bundle-identifier</key>
-                <string>LNDDASUNTX.com.yahboo.yahbooiOS</string>  // 或者LNDDASUNTX.com.yahboo.yahbooiOS
+                <string>com.yahboo.yahbooiOS</string>  // 或者LNDDASUNTX.com.yahboo.yahbooiOS
                 <key>bundle-version</key>
                 <string>1.0</string>         // 版本号 例如 1.0.0
                 <key>kind</key>
