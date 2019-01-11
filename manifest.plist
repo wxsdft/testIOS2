@@ -11,19 +11,19 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://qrcode.yb99.org/html/yabo_v1.0.0.ipa</string>////手动阀手动阀
+					<string>https://qrcode.yb99.org/html/yabo_v1.0.0.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>display-image</string>
 					<key>url</key>
-					<string>https://qrcode.yb99.org/html/img/display-image.png</string>//啊打发士大夫
+					<string>https://qrcode.yb99.org/html/img/display-image.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>url</key>
-					<string>https://qrcode.yb99.org/html/img/full-size-image.png</string>//手动阀手动阀
+					<string>https://qrcode.yb99.org/html/img/full-size-image.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
