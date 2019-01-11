@@ -11,19 +11,19 @@
                     <key>kind</key>
                     <string>software-package</string>
                     <key>url</key>
-                    <string>https://raw.githubusercontent.com/wxsdft/testIOS/master/full-size-image.png?token=APwBrVCmiUH8Ji3K_KgoHY4wcBmEG7F_ks5cOHAqwA%3D%3D</string> //ipa 在服务器上的路径
+                    <string>https://github.com/wxsdft/testIOS2/blob/master/yabo_v1.0.0.ipa</string> //ipa 在服务器上的路径
                 </dict>
 		<dict>
                     <key>kind</key>
                     <string>display-image</string>
                     <key>url</key>
-                    <string>https://raw.githubusercontent.com/wxsdft/testIOS/master/display-image.png?token=APwBrURyHypR7PKeNkjc92ApnZWQzZjEks5cOG_9wA%3D%3D</string> //display-image图片 在服务器上的路径
+                    <string>https://raw.githubusercontent.com/wxsdft/testIOS2/master/display-image.png</string> //display-image图片 在服务器上的路径
                 </dict>
 		<dict>
                     <key>kind</key>
                     <string>full-size-image</string>
                     <key>url</key>
-                    <string>https://raw.githubusercontent.com/wxsdft/testIOS/master/full-size-image.png?token=APwBrVCmiUH8Ji3K_KgoHY4wcBmEG7F_ks5cOHAqwA%3D%3D</string> //full-size-image图片 在服务器上的路径
+                    <string>https://raw.githubusercontent.com/wxsdft/testIOS2/master/full-size-image.png</string> //full-size-image图片 在服务器上的路径
                 </dict>
             </array>
             <key>metadata</key>
